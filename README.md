@@ -85,4 +85,4 @@ Attrition Rate by Gender & Age Group (Donut Charts):
 * Policy Development: Education field attrition patterns suggest targeted training and retention strategies for Life Sciences and Medical graduates.
 
 6. Screenshots / Demos
-Show what the dashboard looks like. - 
+Show what the dashboard looks like. - https://github.com/Akshathahosamani/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.png
